@@ -1,0 +1,10 @@
+doctype is used to indicate that we are html 4 and updated versions
+what is meta elements and the links in whatsup 
+client and server diff how to send data to the backend server
+diff btw prgm lang and markup language
+cookie-tempory storage and local storages in inspect learn about the storage
+what is dom
+dom operations comes under body tag
+html and html5
+canvas and svg in graphics
+
